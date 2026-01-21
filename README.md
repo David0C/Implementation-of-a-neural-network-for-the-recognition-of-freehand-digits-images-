@@ -1,0 +1,1 @@
+# Implementation-of-a-neural-network-for-the-recognition-of-freehand-digits-images-
